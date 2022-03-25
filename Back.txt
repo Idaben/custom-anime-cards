@@ -1,0 +1,28 @@
+<div class='althing'>
+
+<div class='front-side'>
+	{{#Tags}}
+		<div class='tags'>
+	{{Tags}}</div>
+	{{/Tags}}
+	<div class='expression'><div display-type="coloredkanjireading" class="wrapped-japanese">{{Reading}}</div></div>
+</div>
+
+  <div class='back-side'>
+    <div class='spacer1'></div>
+    <div class='left-side'>
+      <div class='photo'>
+        {{Snapshot}}
+      </div>
+      <div class='audio'>{{Audio}}</div>
+    </div>
+
+    <div class='right-side'>
+      <div class='focus'>{{Focus}}</div>
+      <div class='definition'> <b>Definition</b> <br> <br>{{Notes}}</div>
+      <div class='monolingual'> <b>Monolingual</b> <br> <br>{{定義}}</div>
+    </div>
+    <div class='spacer2'></div>
+  </div>
+
+</div>

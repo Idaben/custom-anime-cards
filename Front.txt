@@ -1,0 +1,18 @@
+<div class='althing'>  <!-- This is a div I used to prevent the whole card from shifting to the left when I click show answer -->
+
+<div class='front-side'>
+	{{#Tags}}
+		<div class='tags'>
+	{{Tags}}</div>
+	{{/Tags}}
+	<div class='expression'>{{Expression}}</div>
+</div>
+
+</div>
+
+<!--
+PUT COMMENTS HERE
+
+
+-->
+
