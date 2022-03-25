@@ -1,5 +1,8 @@
 # custom-anime-cards
 . . .
+Go to your anki cards, and paste the corresponding text in the corresponding parts, front, back and styling.
+
+
 You may need to change some of the stuffs in the code since the name of my entry fields might be different from yours.
 
 Here are my field names and there corresponding descriptions
