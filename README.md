@@ -19,3 +19,8 @@ Here are my field names and there corresponding descriptions
 
 
 I use the migaku dictionary addon and the japanese addon, so I get the pitch accent colors thingy. I removed the migaku code from the card, since everybody has their own different pitch accent add-on stuff.
+
+
+
+IMPORTANT
+If you encounter any bugs or weird display stuffs, I am 100% sure I don't know how to fix that. So yeah. Happy studying!
